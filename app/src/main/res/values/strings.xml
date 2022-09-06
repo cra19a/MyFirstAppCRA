@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App CRA</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_about">About</string>
+    <string name="about_page">"My name is Clayton Arnett and I'm from a small town called Argyle that's just north of DFW. Some of my hobbies are playing sports like basketball and volleyball, hanging out with friends, and watching movies or anime.\n\nAs of right now, I have no clue what I want to do with my life and I've been having a hard time trying to figure that out. It's hard when you have to try to decide what you want to do for the rest of your life when you're 18, 19, or 20. It's one of the biggest decisions you'll ever make and I hate that it has to be done so early.\n\nEven though it's stressful and worrying, I know God will get me through it and will be there for me every step of the way. I know he'll lead me in the right direction as long as I keep my faith in him. I haven't quite yet decided what to do with my life, but deciding to follow Jesus was the biggest and best decision I'll ever make."</string>
+    <string name="textview">TextView</string>
+</resources>
